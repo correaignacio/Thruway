@@ -23,7 +23,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/correaignacio/ratchet-transport.git"
+            "url": "https://github.com/correaignacio/ratchet-transport"
         }
     ],
     "autoload": {
