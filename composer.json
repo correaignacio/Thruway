@@ -20,6 +20,12 @@
             "name": "David Dan", "email": "davidwdan@gmail.com", "role": "Developer"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/correaignacio/ratchet-transport.git"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Thruway\\": "src/"
